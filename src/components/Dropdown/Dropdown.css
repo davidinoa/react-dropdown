@@ -1,0 +1,23 @@
+.ui-dropdown__wrapper {
+  border: solid 1px silver;
+  display: inline-block;
+}
+
+.ui-dropdown__header {
+  border: dashed 1px silver;
+  padding: 5px 15px;
+}
+
+.ui-dropdown__header-title {
+  border: dashed 1px pink;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.ui-dropdown__list {
+  border: dashed 1px pink;
+  padding-left: 15px;
+  margin: auto;
+  text-align: left;
+  list-style-type: none;
+}
